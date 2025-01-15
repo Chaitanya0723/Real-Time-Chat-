@@ -27,8 +27,8 @@ To run this WebSocket chat application locally, follow these steps:
    - Once connected to the server, you can start sending messages. Messages will appear in real-time.
 
 ### Example Screenshot
-![Chat Application Screenshot]("https://github.com/Chaitanya0723/Real-Time-Chat-/blob/main/1.png")
-![2]("https://github.com/Chaitanya0723/Real-Time-Chat-/blob/main/2.png")
+![Chat Application Screenshot](https://github.com/Chaitanya0723/Real-Time-Chat-/blob/main/1.png)
+![2](https://github.com/Chaitanya0723/Real-Time-Chat-/blob/main/2.png)
 
 
 ## License
